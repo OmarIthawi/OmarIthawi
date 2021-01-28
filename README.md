@@ -2,7 +2,7 @@
 
 I'm Omar Al-Ithawi a Software Engineer at Appsembler.
 
-I'm a Core Committer to the [Open edX](http://open.edx.org/) opensource project and I maintain an [Arabic extension for MathJax](https://github.com/OmarIthawi/arabic-mathjax).
+I maintain an [Arabic extension for MathJax](https://github.com/OmarIthawi/arabic-mathjax).
 
 ## GitHub
 
