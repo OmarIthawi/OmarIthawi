@@ -4,15 +4,9 @@ I'm Omar Al-Ithawi a Software Engineer at Appsembler.
 
 I maintain an [Arabic extension for MathJax](https://github.com/OmarIthawi/arabic-mathjax).
 
-## GitHub
-
-I like to use `git` and GitHub because it makes my work very organized:
-
-![stats](https://github-readme-stats.vercel.app/api?username=omarithawi&theme=light&show_icons=true)
-
 ## Islam
 
-I would like to invite you to learn more about Islam and why it's the only religion for all the mankind.
+I would like to invite you to learn more about Islam and why it's right for you.
 
 If you don't know what the Islam religion please checkout this [introduction video by Fadel Solaiman](https://www.youtube.com/watch?v=bdH16Hz1naI):
 
