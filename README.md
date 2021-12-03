@@ -1,6 +1,4 @@
-## :handshake: السلام عليكم (As-salamu alaykum)
-
-I'm Omar Al-Ithawi a Software Engineer at Appsembler.
+I'm Omar Al-Ithawi a Staff Software Engineer at [Appsembler](https://appsembler.com/).
 
 I maintain an [Arabic extension for MathJax](https://github.com/OmarIthawi/arabic-mathjax).
 
